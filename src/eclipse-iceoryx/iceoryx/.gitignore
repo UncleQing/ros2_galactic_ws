@@ -1,0 +1,15 @@
+build/
+build_out_of_tree/
+build_package/
+install/
+/CMakeLists.txt
+clangd/
+.vscode
+/**/*.user
+*/doc/html/
+*/doc/latex/
+*/doc/xml/
+site/
+doc/website/API-reference/
+*.project
+__pycache__
